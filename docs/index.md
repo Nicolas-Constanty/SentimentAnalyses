@@ -1,4 +1,4 @@
 # Sentiment analysis
 
-## [Reddit title analysis](https://nicolas-constanty.github.io/SentimentAnalysis/RedditTitle)
-## [Analyse twitter](https://nicolas-constanty.github.io/SentimentAnalysis/AnalyseTwitter)
+## [Reddit title analyses](https://nicolas-constanty.github.io/SentimentAnalyses/RedditTitle)
+## [Analyse twitter](https://nicolas-constanty.github.io/SentimentAnalyses/AnalyseTwitter)
